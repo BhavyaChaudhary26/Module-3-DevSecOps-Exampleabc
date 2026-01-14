@@ -1,4 +1,20 @@
 # Module 3: DevSecOps Example
+
+This project demonstrates a basic example of how security can be integrated into development workflows.
+
+---
+
+## Scenario
+
+You are a **DevOps Engineer**. Until now, the team you are working with has not implemented any security activities in their project.
+As your project becomes more mature, the project manager decides it's time to step up and start securing the project.
+Now, it's your job to introduce security activities into the project. You start with the following two DevOps phases:
+
+- **Build**
+- **Code**
+
+---
+# Module 3: DevSecOps Example
 This project is a basic example on how integrate security can be integrated into development workflows.
 
 ## Scenario
