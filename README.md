@@ -10,7 +10,7 @@ So now it's your job to introduce security activities into the project. You star
 To get started perform the following:
 
 0. Fork this project into your own namespace (don't make it private!)
-1. Go to the `Actions` section and enable the Workflows (Continuous Integration/Deployment Pipelines)
+1. Go to the `Actions` section and enable the Workflows (Continuous Integration/Deployment Pipelines)...
 
 ![How to set things up](figures/1.Set_things_up.png)
 
